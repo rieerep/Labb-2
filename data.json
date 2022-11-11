@@ -1,0 +1,36 @@
+{
+    "work": [
+        {
+            "time": "2014-ongoing",
+            "title": "Kjell and Company - Service Point Operator",
+            "desc": "Drove people from a to b in exchange of money."
+        },
+        {
+            "time": "2010-2012",
+            "title": "YouGov - Student project assistant",
+            "desc": "2010-2014 - Student project assistant at YouGov"
+        }
+    ],
+    "education": [
+        {
+            "time": "2022-ongoing",
+            "title": "Fullstackutvecklare .NET",
+            "desc": "test"
+        },
+        {
+            "time": "2013",
+            "title": "Stockholms Universitet - Statsvetenskap I",
+            "desc": "test"
+        },
+        {
+            "time": "2011",
+            "title": "Södertörns högskola - Historia A",
+            "desc": "test"
+        },
+        {
+            "time": "2007-2010",
+            "title": "Cybergymnasiet Odenplan",
+            "desc": "Inriktning mot media och digital teknik."
+        }
+    ]
+}
