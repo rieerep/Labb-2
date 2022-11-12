@@ -2,7 +2,7 @@ window.onload = function () {
 
 
     // --------------------- JSON -------------------------- //
-    let url = "rieerep/data.json"
+    let url = "./data.json"
     let workList = document.querySelector(".workList")
     console.log('workList', workList);
     const educationList = document.querySelector(".educationList")
