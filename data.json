@@ -3,34 +3,34 @@
         {
             "time": "2014-ongoing",
             "title": "Kjell and Company - Service Point Operator",
-            "desc": "Drove people from a to b in exchange of money."
+            "desc": "Worked in retail helping customers finding the right solution for their electronic appliance needs. Also maintaining storage and inventory on daily basis."
         },
         {
-            "time": "2010-2012",
+            "time": "2010-2014",
             "title": "YouGov - Student project assistant",
-            "desc": "2010-2014 - Student project assistant at YouGov"
+            "desc": "Creating reports of different market surveys. Responsible for the survey panel support as well."
         }
     ],
     "education": [
         {
             "time": "2022-ongoing",
-            "title": "Fullstackutvecklare .NET",
-            "desc": "test"
+            "title": "Chas Academy - Fullstackutvecklare .NET",
+            "desc": "Vocational education as fullstack software developer with focus on .NET"
         },
         {
             "time": "2013",
             "title": "Stockholms Universitet - Statsvetenskap I",
-            "desc": "test"
+            "desc": "Separate course"
         },
         {
             "time": "2011",
             "title": "Södertörns högskola - Historia A",
-            "desc": "test"
+            "desc": "Seperate course"
         },
         {
             "time": "2007-2010",
             "title": "Cybergymnasiet Odenplan",
-            "desc": "Inriktning mot media och digital teknik."
+            "desc": "Field of Study: Media and digital creation"
         }
     ]
 }
