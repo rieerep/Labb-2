@@ -51,22 +51,27 @@ window.onload = function () {
         }
     }
 
-    getToDo();
+    if (workList) { getToDo() };
 
     // ---------------- MODAL BUTTON 1 ----------------- //
     let firstBtn = document.querySelector(".modal-btn1");
     const modal = document.querySelector(".modal1")
     const closeBtn1 = document.querySelector(".close-btn1")
 
-    // Öppnar projekt 1:s fönster
-    firstBtn.addEventListener('click', ReadMore1);
+
+    if (firstBtn) {
+        // Öppnar projekt 1:s fönster
+        firstBtn.addEventListener('click', ReadMore1);
+    }
 
     function ReadMore1() {
         modal.style.display = "block"
     }
 
     //stänger projekt 1:s fönster
-    closeBtn1.addEventListener('click', closeButtonOne);
+    if (closeBtn1) {
+        closeBtn1.addEventListener('click', closeButtonOne);
+    }
 
     function closeButtonOne() {
         modal.style.display = "none"
@@ -78,7 +83,7 @@ window.onload = function () {
     const closeBtn2 = document.querySelector(".close-btn2")
 
     // Öppnar projekt 2:s fönster
-    secondBtn.addEventListener('click', ReadMore2);
+    if (secondBtn) { secondBtn.addEventListener('click', ReadMore2); }
 
     function ReadMore2() {
         console.log('test');
@@ -86,7 +91,7 @@ window.onload = function () {
     }
 
     //stänger projekt 2:s fönster
-    closeBtn2.addEventListener('click', closeButtonTwo);
+    if (closeBtn2) { closeBtn2.addEventListener('click', closeButtonTwo); }
 
     function closeButtonTwo() {
         console.log('close button two', closeBtn2);
